@@ -76,7 +76,7 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"images/201303/yueruixiang.png",
+                    "media":"images/201303/yuexiangrui.png",
                     "credit":"",
                     "caption":""
                 }
@@ -330,6 +330,17 @@
                 "asset":
                 {
                     "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,15",
+                "headline":"[曹裕凯]加入",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"images/201311/caoyukai.png",
                     "credit":"",
                     "caption":""
                 }
