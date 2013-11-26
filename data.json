@@ -65,7 +65,7 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/201303/cuiqiongxue.png",
                     "credit":"",
                     "caption":""
                 }
@@ -117,10 +117,10 @@
             {
                 "startDate":"2013,06,17",
                 "headline":"[Luxurioust]加入",
-                "text":"简介: 现任 TrustWorty 项目开发团队 项目经理, 黑龙江科技大学信息网络中心 UCAIS 大学生多媒体课件开发工作室成员, 个人网站 - <a href=\"http://www.mrxuri.com\" target=\"_blank\">mrxuri.com</a>",
+                "text":"简介: TrustWorty Team Project Manager, Homepage - <a href=\"http://www.mrxuri.com\" target=\"_blank\">mrxuri.com</a>",
                 "asset":
                 {
-                    "media":"images/201306/luxurioust.jpg",
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
@@ -307,7 +307,7 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/201310/piaolili.png",
                     "credit":"",
                     "caption":""
                 }
