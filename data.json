@@ -115,17 +115,6 @@
                 }
             },
             {
-                "startDate":"2013,06,17",
-                "headline":"[Luxurioust]加入",
-                "text":"简介: TrustWorty Team Project Manager, Homepage - <a href=\"http://www.mrxuri.com\" target=\"_blank\">mrxuri.com</a>",
-                "asset":
-                {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"2013,07,01",
                 "headline":"[朴倩玉]加入",
                 "text":"<p>简介.</p>",
@@ -346,20 +335,9 @@
                 }
             },
             {
-                "startDate":"2013,11,15",
-                "headline":"[曹裕凯]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"images/201311/caoyukai.png",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"2013,11,25",
                 "headline":"创建此页面",
-                "text":"<p>luxurioust and YOU. </p>",
+                "text":"<p><a href=\"http://www.mrxuri.com\" target=\"_blank\">luxurioust</a> and YOU. </p>",
                 "asset":
                 {
                     "media":"images/201311/timeline.png",
