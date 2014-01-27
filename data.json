@@ -12,16 +12,27 @@
                 },
         "date": [
             {
-                "startDate":"2013,02,01",
-                "headline":"TrustWorty 项目开发团队成立"
+                "startDate":"2013,01,01",
+                "headline":"罗勇林开始学HTML，正式进军互联网创业"
             },
             {
-                "startDate":"2013,02,01",
-                "headline":"[罗勇林]加入",
-                "text":"<p>简介.</p>",
+                "startDate":"2013,02,26",
+                "headline":"[罗勇林]加入团队",
+                "text":"<p>简介.黑工程12计算机，其他就不说了你们懂得。。。</p>",
                 "asset":
                 {
-                    "media":"images/201302/yonglinluo.jpg",
+                    "media":"images/2013-up/luoyonglin.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,02,27",
+                "headline":"[马春健]加入",
+                "text":"<p>简介.黑工程12计算机，高智商脑残，目前苦学java中。。。</p>",
+                "asset":
+                {
+                    "media":"images/2013-up/machunjian.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -29,32 +40,10 @@
             {
                 "startDate":"2013,02,28",
                 "headline":"[徐志国]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程12计算机，团队安卓高手，有自己心中的女神做女友。</p>",
                 "asset":
                 {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2013,02,28",
-                "headline":"[马春键]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2013,03,15",
-                "headline":"[刘琼]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"",
+                    "media":"images/2013-up/xuzhiguo.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -62,10 +51,10 @@
             {
                 "startDate":"2013,03,20",
                 "headline":"[崔琼雪]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程12汽车院系，前期负责PS美工设计，现在负责团队网站前端javascript开发。</p>",
                 "asset":
                 {
-                    "media":"images/201303/cuiqiongxue.png",
+                    "media":"images/2013-up/cuiqiongxue.png",
                     "credit":"",
                     "caption":""
                 }
@@ -73,21 +62,21 @@
             {
                 "startDate":"2013,03,26",
                 "headline":"[岳祥瑞]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程11测绘，有骨气，有想法，负责团队策划和网站后台开发，爱吃麻辣串。</p>",
                 "asset":
                 {
-                    "media":"images/201303/yuexiangrui.png",
+                    "media":"images/2013-up/yuexiangrui.png",
                     "credit":"",
                     "caption":""
                 }
             },
-            {
-                "startDate":"2013,04,20",
-                "headline":"[马兴雷]加入",
-                "text":"<p>简介.</p>",
+	    {
+                "startDate":"2013,04,9",
+                "headline":"[建立IT创业协会]",
+                "text":"<p>简介.为团队的成功奠定了势力基础。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/public/it.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -95,10 +84,10 @@
             {
                 "startDate":"2013,04,29",
                 "headline":"[霍春阳]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程12机电，公司副总，爱好，，打篮球，写代码，看书，打游戏。为了跟团队创业逃了一学期课，挂科降级，碉堡了。PHP技术超神了。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-up/huochunyang.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -106,10 +95,21 @@
             {
                 "startDate":"2013,05,01",
                 "headline":"[魏亚杰]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程12计算机，脑子挺好使，不过不会技术，目前打酱油中，下学期为团队贡献销售业务。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-up/weiyajie.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2013,06,18",
+                "headline":"[旭日]加入",
+                "text":"<p>简介.黑科技12届计算机，公司网络安全负责人，linux系统研究超神。</p>",
+                "asset":
+                {
+                    "media":"images/2013-up/xuri.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -117,10 +117,10 @@
             {
                 "startDate":"2013,07,01",
                 "headline":"[朴倩玉]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.农大12届，农大表白墙墙主，拥有1万多关注量粉丝，负责团队的策划书，协议书，资料收集等工作。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/piaoqianyu.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -128,10 +128,21 @@
             {
                 "startDate":"2013,07,10",
                 "headline":"[武家豪]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑科技12届，初中开始搞编程，擅长各种语言，不过却没有精的一门，如今讨厌自己测绘的专业休学去其他企业上班，</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/wujiahao.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	     {
+                "startDate":"2013,07,10",
+                "headline":"[潘洪涛]加入",
+                "text":"<p>简介.黑大12届计算机，有程序员气质，爱穿带蓝色领的衣服，典型的蓝领，技术宅。。。将来技术一定会超神</p>",
+                "asset":
+                {
+                    "media":"images/2013-down/panhongtao.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -142,62 +153,62 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"images/201307/hco-index.png",
+                    "media":"images/public/hco-index.png",
                     "credit":"luxurioust",
                     "caption":""
                 }
             },
             {
-                "startDate":"2013,08,01",
+                "startDate":"2013,10,01",
                 "headline":"[陶雪]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程12届汽车院系，有执行力，有胆量，有毅力，就是墨迹~，负责团队策划，微信公众管理，和其他管理工作。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/taoxue.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2013,08,10",
+                "startDate":"2013,10,10",
                 "headline":"[张琪]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程12届汽车院系，高大威猛。。。负责团队前端编码和PHP开发</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/zhangqi.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2013,08,12",
+                "startDate":"2013,08,25",
                 "headline":"工程精灵 微信公众平台 上线",
-                "text":"<p>简介: 服务在校大学生的精灵助手</p>",
+                "text":"<p>简介: 8月25日在黑工程9点同时上百人转发状态，工程精灵一夜爆火，拉开了团队走向成功的序幕。</p>",
                 "asset":
                 {
-                    "media":"images/201308/wechat-1.png",
+                    "media":"images/public/wechat.png",
                     "credit":"",
                     "caption":""
                 }
             },
-            {
-                "startDate":"2013,08,20",
-                "headline":"[李益丞]加入",
-                "text":"<p>简介.</p>",
+	    {
+                "startDate":"2013,09,13",
+                "headline":"聘爱网研发启动",
+                "text":"<p>一帮技术不成熟，从来没一起做过大项目的人一起搞这个，无产品策划书，处女项目，吊炸天了有木有。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/public/pinai_start.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
-            {
-                "startDate":"2013,08,30",
-                "headline":"[李阳]加入",
-                "text":"<p>简介.</p>",
+	    {
+                "startDate":"2013,09,14",
+                "headline":"团队终于有了自己的办公场所",
+                "text":"<p>终于有了自己的办公场所不用每次集合都要到处找空教室了。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/public/office.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -205,43 +216,54 @@
             {
                 "startDate":"2013,09,29",
                 "headline":"[许唯]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程12电气院系，善良，懂事，认真，就是有点懒~负责团队前端编码和美工设计</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/xuwei.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2013,10,07",
+                "headline":"[团队安卓部门建立]",
+                "text":"<p>简介.新鲜的血液不断注入，新人风光展现。</p>",
+                "asset":
+                {
+                    "media":"images/public/android.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2013,10,01",
+                "startDate":"2013,10,07",
                 "headline":"[于灵瑞]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程13计算机，老实，努力，有野性。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/yulingrui.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2013,10,04",
+                "startDate":"2013,10,11",
+                "headline":"[韩寿志]加入",
+                "text":"<p>简介. 性格比较随和，脾气好，爱好吗，那就是玩了，玩游戏，打篮球。目前苦学PHP中</p>",
+                "asset":
+                {
+                    "media":"images/2013-down/hanshouzhi.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,07",
                 "headline":"[程其椿]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程13计算机，老实，努力，贪玩，有毅力，靠谱稳定，赶紧人品爆发吧你。</p>",
                 "asset":
                 {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2013,10,06",
-                "headline":"[董世林]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"",
+                    "media":"images/2013-down/chengqichun.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -249,10 +271,10 @@
             {
                 "startDate":"2013,10,08",
                 "headline":"[游杰伟]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程13土木，有才华，有胆量，将来有所作为。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/youjiewei.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -260,10 +282,10 @@
             {
                 "startDate":"2013,10,09",
                 "headline":"[郑岩]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.黑工程12计算机，长得还行，能力一般，不过人靠谱说。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/zhengyan.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -271,10 +293,10 @@
             {
                 "startDate":"2013,10,11",
                 "headline":"[张德祥]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.哈工程13，老实，努力，毅力，靠谱。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/zhangdexiang.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -282,21 +304,10 @@
             {
                 "startDate":"2013,10,13",
                 "headline":"[尹奕斌]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.哈工程13， 性格：慢热     爱好：治愈系动漫，东野圭吾。看起来不靠谱，看起来不努力，看起没毅力，其实挺靠谱。</p>",
                 "asset":
                 {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2013,10,15",
-                "headline":"[朴丽丽]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"images/201310/piaolili.png",
+                    "media":"images/2013-down/yinyibin.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -304,43 +315,153 @@
             {
                 "startDate":"2013,10,17",
                 "headline":"[魏丹]加入",
-                "text":"<p>简介.</p>",
+                "text":"<p>简介.哈学院12艺术系，PS很厉害，作图很漂亮，就是各种延迟。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/2013-down/weidan.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2013,11,1",
+                "headline":"[李爽]加入",
+                "text":"<p>简介.黑工程12计算机，负责团队美工，不靠谱，不老实。。。</p>",
+                "asset":
+                {
+                    "media":"images/2013-down/lishuang.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2013,11,1",
+                "headline":"[翟艳佳]加入",
+                "text":"<p>简介.黑工程12计算机，负责团队美工，胆大，努力</p>",
+                "asset":
+                {
+                    "media":"images/2013-down/zhaiyanjia.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2013,11,3",
+                "headline":"[方振祥]加入",
+                "text":"<p>简介.黑工程12艺术系，负责团队美工设计，产品感觉搞，有潜力</p>",
+                "asset":
+                {
+                    "media":"images/2013-down/fangzhenxiang.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2013,11,3",
+                "headline":"[姜峰]加入",
+                "text":"<p>简介.黑工程12艺术系，负责团队美工设计，设计能力高，精细生动，有潜力。</p>",
+                "asset":
+                {
+                    "media":"images/2013-down/jiangfeng.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    	    {
+                "startDate":"2013,11,17",
+                "headline":"[叶建梅]加入",
+                "text":"<p>简介.黑大12届，负责团队策划管理等。</p>",
+                "asset":
+                {
+                    "media":"images/2013-down/yejianmei.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2013,10,17",
+                "headline":"建立公司",
+                "text":"<p>注册了哈尔滨精灵科技有限责任公司</p>",
+                "asset":
+                {
+                    "media":"images/public/company_construct.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	       {
+                "startDate":"2014,1,11",
+                "headline":"[解酉鸣]加入",
+                "text":"<p>简介.黑工程11测绘，学的认真努力，进度在新成员中最快，将来能超神。</p>",
+                "asset":
+                {
+                    "media":"images/2014-up/xieyouming.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    	       {
+                "startDate":"2014,1,11",
+                "headline":"[刘贺铭]加入",
+                "text":"<p>简介.黑工程12计算机，有头脑，有想法，学的认真，将来一定会在网站部门贡献大的力量。</p>",
+                "asset":
+                {
+                    "media":"images/2014-up/liuheming.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    	       {
+                "startDate":"2014,1,15",
+                "headline":"[刘扬]加入",
+                "text":"<p>简介.黑工程12测绘，爱好：体育锻炼，学英语。特长：爱看书，玩单机游戏。负责团队前端javascript开发</p>",
+                "asset":
+                {
+                    "media":"images/2014-up/liuyang.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    	       {
+                "startDate":"2014,1,12",
+                "headline":"[孙文轩]加入",
+                "text":"<p>简介.黑工程12土木，典型的代码气质。PHP努力学习中</p>",
+                "asset":
+                {
+                    "media":"images/2014-up/sunwenxuan.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2014,1,11",
+                "headline":"[兰志国]加入",
+                "text":"<p>简介.黑工程13机电，有赶超徐志国的进头，PHP努力学习中</p>",
+                "asset":
+                {
+                    "media":"images/2014-up/lanzhiguo.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2014,1,26",
+                "headline":"聘爱网项目完结",
+                "text":"<p>竟然奇迹般的做出来了，还行至少能玩。百度搜索聘爱网就可以进入了</p>",
+                "asset":
+                {
+                    "media":"images/public/pinai_ok.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2013,11,01",
-                "headline":"[贾小芳]加入",
-                "text":"<p>简介.</p>",
+                "startDate":"2014,3,1",
+                "headline":"期待团队的牛B的未来",
+                "text":"<p>同上</p>",
                 "asset":
                 {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2013,11,05",
-                "headline":"[宁馨雅]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2013,11,25",
-                "headline":"创建此页面",
-                "text":"<p><a href=\"http://www.mrxuri.com\" target=\"_blank\">luxurioust</a> and YOU. </p>",
-                "asset":
-                {
-                    "media":"images/201311/timeline.png",
+                    "media":"images/public/other.png",
                     "credit":"",
                     "caption":""
                 }
