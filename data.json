@@ -1,7 +1,7 @@
 {
     "timeline":
     {
-        "headline":"TrustWorty Timeline",
+        "headline":"哈尔滨精灵科技有限责任公司 Timeline",
         "type":"default",
 		"text":"有需要修改自己资料的地方请联系罗勇林.",
         "asset":
@@ -123,8 +123,8 @@
             },
 	    {
                 "startDate":"2013,06,18",
-                "headline":"[旭日]加入",
-                "text":"<p>简介.黑科技12届计算机，原项目经理，为公司的技术提升提供了很多指导，由于工作繁忙暂为公司网络安全负责人，linux系统研究超神，碉堡了不解释。。</p>",
+                "headline":"[luxurioust]加入",
+                "text":"<p>简介. 关注Web系统架构,服务器运维,Linux和开源程序设计. 现为网络安全负责人.<br />Site: <a href=\"http://www.mrxuri.com\" target=\"_blank\">www.mrxuri.com</a></p>",
                 "asset":
                 {
                     "media":"images/2013-up/xuri.jpg",
@@ -475,7 +475,7 @@
             },
 	    {
                 "startDate":"2014,1,26",
-                "headline":"聘爱网项目完结",
+                "headline":"聘爱网上线",
                 "text":"<p>竟然奇迹般的做出来了，还行至少能玩。百度搜索聘爱网就可以进入了</p>",
                 "asset":
                 {
