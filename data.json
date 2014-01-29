@@ -474,6 +474,17 @@
                 }
             },
 	    {
+                "startDate":"2014,1,11",
+                "headline":"[李晓风]加入",
+                "text":"<p>简介.黑工程13 美工学习中。</p>",
+                "asset":
+                {
+                    "media":"images/2014-up/lixiaofeng.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
                 "startDate":"2014,1,26",
                 "headline":"聘爱网上线",
                 "text":"<p>竟然奇迹般的做出来了，还行至少能玩。百度搜索聘爱网就可以进入了</p>",
