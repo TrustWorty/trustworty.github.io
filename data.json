@@ -507,7 +507,18 @@
 				}
 			},
 			{
-				"startDate":"2014,11,8",
+				"startDate":"2015,3,13",
+				"headline":"聘爱上线公测",
+				"text":"<p>历经近五个月的开发，新版聘爱正式上线公测，平台提供<a href=\"http://www.pinai521.com\" target=\"_blank\">Web版</a>、移动端（<a href=\"https://itunes.apple.com/cn/app/pin-ai/id985554599?mt=8\" target=\"_blank\">iOS版</a>、<a href=\"http://fir.im/pinai\" target=\"_blank\">Android版</a>）、WAP版，三个版本供用户选择。</p>",
+				"asset":
+				{
+					"media":"images/201503/pinai521.com.jpg",
+					"credit":"遇见最对的人，让你的大学不留白",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2015,5,12",
 				"headline":"期待公司的牛B的未来",
 				"text":"<p></p>",
 				"asset":
